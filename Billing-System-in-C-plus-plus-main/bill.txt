@@ -1,0 +1,13 @@
+
+                      GCEK's Grocery Shop                  
+
+------------------------------------------------------------------------
+No.   Name                            Price     Quantity       Net Price
+------------------------------------------------------------------------
+1     Balaji Simply Salted Chips        5         0              0         
+----------------------------------------------------------------------
+Total : 0 Rs
+GST : 0 Rs
+Amount to pay : 0 Rs
+Visit Agian
+Thank you!
